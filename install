@@ -35,5 +35,4 @@ sudo chmod +x tg
 lua DRAGON.lua
 sudo chmod +x DRAGON
 sudo chmod +x ./DRG
-./DRG
 fi
